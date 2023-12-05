@@ -65,7 +65,7 @@ reader.on('line', (line: string) => {
     sumOfValidGameIds += gameId;
   }
   sumOfPowers += gamePower;
-})
+});
 
 reader.on('close', () => {
   console.log(`sum of valid games: ${sumOfValidGameIds}`);
