@@ -1,0 +1,15 @@
+{
+  "name": "day4",
+  "version": "1.0.0",
+  "description": "day 4",
+  "main": "day-4.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.10.2",
+    "typescript": "^5.3.2"
+  }
+}
